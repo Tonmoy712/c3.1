@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, p{
+    color: #333;
+}
+.container{
+
+padding: 0 15% 0 15%;
+}
+h2{
+
+font-size: 35px;
+
+padding: 5% 33% 5% 33%;
+
+text-align: center;
+}
+.image1{
+
+width: 10%;
+
+padding-left: 45%;
+}
+.color1{
+    color: blue;
+}
+.color2{
+    color: orangered;
+}
+.color3{
+    color: greenyellow;
+}
+.color4{
+    color: purple;
+}
+.color5{
+    color: red;
+}
+.textarea img{
+
+width: 100%;
+
+/* padding-left: 34%; */
+}
+h1{
+    
+padding: 5% 0 2% 0;
+}
+p{
+
+font-size: 20px;
+
+padding-bottom: 3%;
+}
+.last_header{
+
+padding: 10%;
+
+background: #0BA26D;
+
+text-align: center;
+
+color: #fff;
+
+font-size: 40px;
+}
